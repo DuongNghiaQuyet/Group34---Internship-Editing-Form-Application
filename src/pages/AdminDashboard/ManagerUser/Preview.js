@@ -1,5 +1,6 @@
 // src/pages/PreviewPage.js
 import React from 'react';
+import './Preview.css'
 
 const PreviewPage = () => {
   return (
